@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "HeroRescue/src",
+        "HeroRescue/HeroRescue/src",
+        "HeroRescue/reso"
+    ]
+}
